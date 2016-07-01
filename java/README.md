@@ -1,15 +1,15 @@
 ## 1. 开发工具
 
-IntellijIDE15.0 推荐使用
+IntellijIDE15.0推荐使用
 STS
 Eclipse 
 NetBeans
 	
 ## 2. 需要掌握的知识
-java8 +
-maven3 +
+java8+
+maven3+
 git
-msql5 +
+msql5+
 springMVC
 hibernate JPA
 	
