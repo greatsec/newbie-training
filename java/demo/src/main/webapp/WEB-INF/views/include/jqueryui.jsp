@@ -1,0 +1,2 @@
+<link href="${ctxStatic}/jquery-ui/ui-lightness/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" />
+<script src="${ctxStatic}/jquery-ui/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
